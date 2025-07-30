@@ -3,14 +3,23 @@ Developed an interactive Power BI dashboard analyzing product orders across Indi
 
 ## Questions (KPIs)
 -What was the total revenue and profit generated in 2018?
+
 -Which product category was the most profitable?
+
 -Which state contributed the highest profit?
+ 
 -Which city generated the most profit?
+
 -What is the profit trend across months in 2018?
--Which product category had the lowest profit?
+
+-Which product category had the lowest profit? 
+
 -What was the average profit per order?
+
 -How many total orders were received in 2018?
+
 -What is the total cost vs revenue breakdown by product category?
+
 -Which month recorded the highest and lowest profit?
 
 ## Process 

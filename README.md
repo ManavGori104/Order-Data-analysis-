@@ -23,30 +23,60 @@ Developed an interactive Power BI dashboard analyzing product orders across Indi
 -Which month recorded the highest and lowest profit?
 
 ## Process 
--Imported Data:
+->Imported Data:
+
  Loaded Excel file containing fields like Order ID, Date, Customer, State, City, Category, Order Total, and Product Cost.
--Verified Data Integrity:
+ 
+ 
+->Verified Data Integrity:
+
  Checked for missing values, duplicates, and anomalies. Ensured data types and formats (e.g., dates) were consistent.
--Cleaned & Transformed Data (Power Query):
+ 
+ 
+->Cleaned & Transformed Data (Power Query):
+
  Corrected data types (dates, numbers)
+ 
  Removed blanks and errors
+ 
  Standardized categories (State, City, Category)
+ 
  Created a new column: Profit = Order Total − Product Cost
--Created Pivot Tables & DAX Measures:
+ 
+ 
+->Created Pivot Tables & DAX Measures:
+
  Answered key questions like:
+ 
  Total revenue and profit
+ 
  Monthly profit trends
+ 
  Profit by category, state, and city
+
  Average profit per order
--Built Visuals:
+
+ 
+->Built Visuals:
+
  Bar/column charts for category and state
+ 
  Line chart for monthly trends
+ 
  KPI cards for total orders, revenue, and profit
--Designed Dashboard:
+ 
+->Designed Dashboard:
+
  Combined visuals into a clean, single-page layout with slicers for:
+ 
  Date
+ 
  State
+ 
  City
+ 
  Category
--Published Report:
+ 
+->Published Report:
+
  Exported the dashboard as a .pbix file and PDF for sharing and presentation.
